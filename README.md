@@ -1,7 +1,7 @@
 # Link Previewer
  Link Previewer - Our app provides you with the best link preview experience. Also, it's free!
-![image](https://user-images.githubusercontent.com/61316762/189543393-abab3a98-8173-4ebc-86b5-ed7318530c55.png)
+![image](https://user-images.githubusercontent.com/61316762/189544234-530c1054-0b13-4c0e-b388-5e2010e287bb.png)
 
-![image](https://user-images.githubusercontent.com/61316762/189543403-3f6a1e2f-8952-4e12-aea2-fe8506a4e67d.png)
+![image](https://user-images.githubusercontent.com/61316762/189544244-775ee946-da6d-4f0c-8db6-253bef5244fd.png)
 
-![image](https://user-images.githubusercontent.com/61316762/189543409-b8617bde-601d-45e1-a8e0-505eecde0c08.png)
+![image](https://user-images.githubusercontent.com/61316762/189544251-b45ff280-b54b-4dee-8dd2-6a3962c38300.png)
