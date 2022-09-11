@@ -2,9 +2,9 @@
  Link Previewer - Our app provides you with the best link preview experience. Also, it's free!
  <br>
  https://link-previewer-s.netlify.app/
- <br>
+ <br> <br>
  https://sauravhathi.github.io/Link-Previewer/
- <br>
+ <br> <br> <br> <br>
 ![image](https://user-images.githubusercontent.com/61316762/189544234-530c1054-0b13-4c0e-b388-5e2010e287bb.png)
 
 ![image](https://user-images.githubusercontent.com/61316762/189544244-775ee946-da6d-4f0c-8db6-253bef5244fd.png)
